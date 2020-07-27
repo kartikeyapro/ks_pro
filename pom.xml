@@ -52,7 +52,7 @@
 		<snapshotRepository>
 			<id>deployment</id>
 			<name>snapshots</name>
-			<url>http://34.67.145.62:8081/repository/kig-app/</url>
+			<url>http://35.223.162.144:8081/repository/maven-snapshots/</url>
 		</snapshotRepository>
 	</distributionManagement>
 	
